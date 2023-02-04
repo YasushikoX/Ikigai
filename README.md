@@ -13,32 +13,38 @@
 <p class="has-line-data" data-line-start="18" data-line-end="19">Gives general info at the start</p>
 </blockquote>
 <ul>
-<li class="has-line-data" data-line-start="20" data-line-end="22">/setup</li>
+<li class="has-line-data" data-line-start="20" data-line-end="22">/help</li>
 </ul>
 <blockquote>
-<p class="has-line-data" data-line-start="22" data-line-end="23">Creates profile and creates user-file in data base</p>
+<p class="has-line-data" data-line-start="22" data-line-end="23">Gives full list of commands and usefull links</p>
 </blockquote>
 <ul>
-<li class="has-line-data" data-line-start="24" data-line-end="26">/search</li>
+<li class="has-line-data" data-line-start="24" data-line-end="26">/setup</li>
 </ul>
 <blockquote>
-<p class="has-line-data" data-line-start="26" data-line-end="27">Searches for user with same games and shows his profile to user searching</p>
+<p class="has-line-data" data-line-start="26" data-line-end="27">Creates/updates profile and creates user-file in data base</p>
 </blockquote>
 <ul>
-<li class="has-line-data" data-line-start="28" data-line-end="30">/likes</li>
+<li class="has-line-data" data-line-start="28" data-line-end="30">/search</li>
 </ul>
 <blockquote>
-<p class="has-line-data" data-line-start="30" data-line-end="31">Shows people that liked your profile and lets you like them back.</p>
+<p class="has-line-data" data-line-start="30" data-line-end="31">Searches for user with same games and shows his profile to user searching</p>
 </blockquote>
 <ul>
-<li class="has-line-data" data-line-start="32" data-line-end="34">/profile</li>
+<li class="has-line-data" data-line-start="32" data-line-end="34">/likes</li>
 </ul>
 <blockquote>
-<p class="has-line-data" data-line-start="34" data-line-end="35">Shows your profile</p>
+<p class="has-line-data" data-line-start="34" data-line-end="35">Shows people that liked your profile and lets you like them back.</p>
 </blockquote>
 <ul>
-<li class="has-line-data" data-line-start="36" data-line-end="38">/deleteprofile</li>
+<li class="has-line-data" data-line-start="36" data-line-end="38">/profile</li>
 </ul>
 <blockquote>
-<p class="has-line-data" data-line-start="38" data-line-end="39">Deletes profile with user-file in data base</p>
+<p class="has-line-data" data-line-start="38" data-line-end="39">Shows your profile</p>
+</blockquote>
+<ul>
+<li class="has-line-data" data-line-start="40" data-line-end="42">/deleteprofile</li>
+</ul>
+<blockquote>
+<p class="has-line-data" data-line-start="42" data-line-end="43">Deletes profile with user-file in data base</p>
 </blockquote>

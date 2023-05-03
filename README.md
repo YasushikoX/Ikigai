@@ -34,5 +34,3 @@ Ikigai is a Discord bot that I created out of my passion for learning Python and
 [**Top.gg**](https://top.gg/bot/1016513838486655026)
 
 [**Invite Ikigai**](https://discord.com/api/oauth2/authorize?client_id=1016513838486655026&permissions=2048&scope=bot)
-
-[**Support Me**](https://www.buymeacoffee.com/yasushiko)
